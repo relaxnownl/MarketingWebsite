@@ -1,3 +1,3 @@
-document.write(windows.location.href)
-document.write("Hello World!")
+document.write(windows.location.hash)
+document.write(window.location)
 
